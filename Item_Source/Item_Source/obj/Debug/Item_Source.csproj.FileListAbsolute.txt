@@ -1,0 +1,16 @@
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\bin\Debug\Item_Source.exe.config
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\bin\Debug\Item_Source.exe
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\bin\Debug\Item_Source.pdb
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.csproj.AssemblyReference.cache
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\MainWindow.g.cs
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\App.g.cs
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source_MarkupCompile.cache
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source_MarkupCompile.lref
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\App.baml
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\MainWindow.baml
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.g.resources
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.Properties.Resources.resources
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.csproj.GenerateResource.cache
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.csproj.CoreCompileInputs.cache
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.exe
+C:\Users\st310-11\Desktop\Угрюмова\Угрюмова задание 4\Item_Source\Item_Source\obj\Debug\Item_Source.pdb
